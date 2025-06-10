@@ -4,7 +4,14 @@
     <title>My Mobile News Feed</title>
     <link>https://yourusername.github.io/your-repo</link>
     <description>News and updates for my mobile application</description>
-    <lastBuildDate>Tue, 10 Jun 2025 13:58:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 10 Jun 2025 15:31:00 +0100</lastBuildDate>
+    <item>
+      <title>App Update v1.0.2 Released</title>
+      <link>https://yourwebsite.com/news/app-update-1-0-1</link>
+      <description>We've released version 1.0.2 with improved performance and bug fixes.</description>
+      <pubDate>Tue, 10 Jun 2025 15:31:00 +0100</pubDate>
+      <guid>https://yourwebsite.com/news/app-update-1-0-1</guid>
+    </item>
     <item>
       <title>App Update v1.0.1 Released</title>
       <link>https://yourwebsite.com/news/app-update-1-0-1</link>
